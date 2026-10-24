@@ -1,0 +1,8 @@
+[project]
+name = "streamstats"
+version = "0.1.0"
+description = "Потоковый анализатор лог-файлов"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
